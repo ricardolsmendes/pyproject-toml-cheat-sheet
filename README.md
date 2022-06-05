@@ -1,2 +1,3 @@
-# -python-pyproject-toml-cheat-sheet
-Notes &amp; thoughts on clean pyproject.toml design
+# pyproject-toml-cheat-sheet
+
+Notes & thoughts on clean pyproject.toml design.
