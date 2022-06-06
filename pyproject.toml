@@ -38,6 +38,9 @@ dev = [
 [tool.coverage.run]
 source = ["src"]
 
+[tool.flit.module]
+name = "pyproject_cheat_sheet"
+
 [tool.pylint]
 max-line-length = 88
 disable = [
