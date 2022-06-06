@@ -39,7 +39,7 @@ dev = [
 cdc-eval = "cdc_eval:main"
 
 [tool.coverage.run]
-omit = ["./env/*", "./venv/*", "./tests/*"]
+source = ["src"]
 
 [tool.flit.module]
 name = "pyproject_cheat_sheet"
