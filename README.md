@@ -4,6 +4,7 @@ Thoughts & notes on clean `pyproject.toml` design.
 
 [![license](https://img.shields.io/github/license/ricardolsmendes/pyproject-toml-cheat-sheet.svg)](https://github.com/ricardolsmendes/pyproject-toml-cheat-sheet/blob/main/LICENSE)
 [![issues](https://img.shields.io/github/issues/ricardolsmendes/pyproject-toml-cheat-sheet.svg)](https://github.com/ricardolsmendes/pyproject-toml-cheat-sheet/issues)
+[![continuous integration](https://github.com/ricardolsmendes/pyproject-toml-cheat-sheet/actions/workflows/continuous-integration.yaml/badge.svg)](https://github.com/ricardolsmendes/pyproject-toml-cheat-sheet/actions/workflows/continuous-integration.yaml)
 
 ## Core file
 
