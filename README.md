@@ -6,6 +6,12 @@ Thoughts & notes on clean `pyproject.toml` design.
 [![issues](https://img.shields.io/github/issues/ricardolsmendes/pyproject-toml-cheat-sheet.svg)](https://github.com/ricardolsmendes/pyproject-toml-cheat-sheet/issues)
 [![continuous integration](https://github.com/ricardolsmendes/pyproject-toml-cheat-sheet/actions/workflows/continuous-integration.yaml/badge.svg)](https://github.com/ricardolsmendes/pyproject-toml-cheat-sheet/actions/workflows/continuous-integration.yaml)
 
+## Get to know the concepts behind this code
+
+[A pyproject.toml Developer’s Cheat
+Sheet](https://betterprogramming.pub/a-pyproject-toml-developers-cheat-sheet-5782801fb3ed)
+@ Better Programming / Medium
+
 ## Core file
 
 - `pyproject.toml`: the package's descriptor file, in which multiple properties are set. 
