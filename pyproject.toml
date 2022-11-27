@@ -1,6 +1,6 @@
 [build-system]
 build-backend = "flit_core.buildapi"
-requires = ["flit_core >=3.7.1,<4"]
+requires = ["flit_core >=3.8.0,<4"]
 
 [project]
 name = "pyproject-toml-cheat-sheet"
@@ -30,9 +30,11 @@ file = "LICENSE"
 [project.optional-dependencies]
 dev = [
     "pylint ~=2.14.0",
-    "pytest-cov ~=3.0.0",
     "toml ~=0.10.2",
     "yapf ~=0.32.0",
+]
+test = [
+    "pytest-cov ~=3.0.0",
 ]
 
 [tool.coverage.run]
